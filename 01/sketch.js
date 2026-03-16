@@ -32,7 +32,7 @@ const PARAMS = {
 function preload() {
     mySvg = loadImage('logo.svg');
     // 3つの音源を全て読み込む
-    mySounds[0] = loadSound('sound1.mp3');
+    mySounds[0] = loadSound('sound.mp3');
     mySounds[1] = loadSound('sound2.mp3');
     mySounds[2] = loadSound('sound3.mp3');
     mySound = mySounds[0]; // 初期選択はsound1
