@@ -1,3 +1,41 @@
+/*
+ * "Tiny Drummer" by Gassyoh
+ * https://freemusicarchive.org/music/Gassyoh/Cow_ep/02_gassyoh_tiny_drummer/
+ *
+ * Original License: CC BY-NC 2.1 JP
+ * https://creativecommons.org/licenses/by-nc/2.1/jp/
+ *
+ * Used by Hiromasa Fukaji (2026)
+ * This work: CC BY-NC 2.1 JP
+ * https://creativecommons.org/licenses/by-nc/2.1/jp/
+ */
+
+/*
+ * "Techno Mahal" by Gassyoh
+ * https://freemusicarchive.org/music/Gassyoh/Cow_ep/03_gassyoh_techno_mahal/
+ *
+ * Original License: CC BY-NC 2.1 JP
+ * https://creativecommons.org/licenses/by-nc/2.1/jp/
+ *
+ * Used by Hiromasa Fukaji (2026)
+ * This work: CC BY-NC 2.1 JP
+ * https://creativecommons.org/licenses/by-nc/2.1/jp/
+ */
+
+/*
+ * "ptitsa-chaika (techno version)" by lost-radio
+ * https://freemusicarchive.org/music/lost-radio/introspace/lost-radio_-_introspace_-_01_ptitsa-chaika_techno_version/
+ *
+ * Original License: CC BY-NC 4.0
+ * https://creativecommons.org/licenses/by-nc/4.0/
+ *
+ * Used by Hiromasa Fukaji (2026)
+ * This work: CC BY-NC 4.0
+ * https://creativecommons.org/licenses/by-nc/4.0/
+ */
+
+
+
 let mySvg;
 let mySounds = [];  // 音源配列
 let mySound;        // 現在選択中の音源
